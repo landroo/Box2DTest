@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Tue May 02 13:28:21 CEST 2017
+2.base=C\:\\Work\\Java\\AndroidStudioProjects\\Box2DTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Work\\Java\\AndroidStudioProjects\\Box2DTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Work\\Java\\AndroidStudioProjects\\Box2DTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Work\\Java\\AndroidStudioProjects\\Box2DTest\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\folders\\2000\\1f\\main\\lib\\mips\\libbox2d.so
+2.set=ANDROID_RESOURCE
+10.set=NATIVE_RESOURCE
+10.file=C\:\\Work\\Java\\AndroidStudioProjects\\Box2DTest\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\folders\\2000\\1f\\main\\lib\\x86\\libbox2d.so
+4.base=C\:\\Work\\Java\\AndroidStudioProjects\\Box2DTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+7.file=C\:\\Work\\Java\\AndroidStudioProjects\\Box2DTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=C\:\\Work\\Java\\AndroidStudioProjects\\Box2DTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\box2_dtest.xml
+5.base=C\:\\Work\\Java\\AndroidStudioProjects\\Box2DTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Work\\Java\\AndroidStudioProjects\\Box2DTest\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\folders\\2000\\1f\\main\\lib\\armeabi\\libbox2d.so
+4.set=DEX
+6.base=C\:\\Work\\Java\\AndroidStudioProjects\\Box2DTest\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\folders\\2000\\1f\\main
+1.file=C\:\\Work\\Java\\AndroidStudioProjects\\Box2DTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\box2_dtest.xml
+9.set=NATIVE_RESOURCE
+9.file=C\:\\Work\\Java\\AndroidStudioProjects\\Box2DTest\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\folders\\2000\\1f\\main\\lib\\armeabi-v7a\\libbox2d.so
+10.base=C\:\\Work\\Java\\AndroidStudioProjects\\Box2DTest\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\folders\\2000\\1f\\main
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Work\\Java\\AndroidStudioProjects\\Box2DTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Work\\Java\\AndroidStudioProjects\\Box2DTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=NATIVE_RESOURCE
+0.base=C\:\\Work\\Java\\AndroidStudioProjects\\Box2DTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Work\\Java\\AndroidStudioProjects\\Box2DTest\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\folders\\2000\\1f\\main
+3.file=C\:\\Work\\Java\\AndroidStudioProjects\\Box2DTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_box2_dtest.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Work\\Java\\AndroidStudioProjects\\Box2DTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\Work\\Java\\AndroidStudioProjects\\Box2DTest\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\folders\\2000\\1f\\main
+4.file=C\:\\Work\\Java\\AndroidStudioProjects\\Box2DTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+8.set=NATIVE_RESOURCE
+0.set=ANDROID_RESOURCE

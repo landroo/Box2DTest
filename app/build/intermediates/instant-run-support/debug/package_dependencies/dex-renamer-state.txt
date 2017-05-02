@@ -1,0 +1,4 @@
+#Tue May 02 13:25:11 CEST 2017
+base.0=C\:\\Work\\Java\\AndroidStudioProjects\\Box2DTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_2423d1a3fb13f079be4f0ae8bae74b8fab86e2cd
+renamed.0=classes.dex
+file.0=C\:\\Work\\Java\\AndroidStudioProjects\\Box2DTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_2423d1a3fb13f079be4f0ae8bae74b8fab86e2cd\\classes.dex
